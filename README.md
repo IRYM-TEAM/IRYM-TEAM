@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, we are IRYM-team</h1>
 <h3 align="center">We are a team of experienced developers passionate about tackling complex business challenges with innovative software solutions. We thrive on transforming intricate problems into elegant, efficient, and user-friendly applications. Our expertise lies in understanding your unique needs and delivering tailored solutions that drive growth and optimize performance.</h3>
-  <br>
-  <br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif">
 <h3>Our Services:</h3>
 
 * Web Application Development: Crafting responsive and engaging web experiences using modern frameworks and technologies.
@@ -13,8 +11,7 @@
 * Data Analytics and Visualization: Turning data into actionable insights through interactive dashboards and reports.
 * UI/UX Design: Designing intuitive and user-centered interfaces that enhance user satisfaction.
   <br>
-  <br>
-  <br>
+
 
 <h3>Our Approach:</h3>
 
