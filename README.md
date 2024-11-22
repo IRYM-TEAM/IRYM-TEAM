@@ -1,9 +1,26 @@
 <h1 align="center">Hi 👋, we are IRYM-team</h1>
-<h3 align="center">Team of experts specializing in crafting innovative solutions to complex business challenges.</h3>
+<h3 align="center">We are a team of experienced developers passionate about tackling complex business challenges with innovative software solutions. We thrive on transforming intricate problems into elegant, efficient, and user-friendly applications. Our expertise lies in understanding your unique needs and delivering tailored solutions that drive growth and optimize performance.</h3>
+  <br>
+  <br>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif">
+<h3>Our Services:</h3>
+
+* Web Application Development: Crafting responsive and engaging web experiences using modern frameworks and technologies.
+* Mobile App Development: Building native or cross-platform mobile applications for iOS and Android.
+* Custom Software Development: Designing and developing bespoke software solutions to meet specific business requirements.
+* E-commerce Solutions: Creating robust and secure online stores to power your business growth.
+* Data Analytics and Visualization: Turning data into actionable insights through interactive dashboards and reports.
+* UI/UX Design: Designing intuitive and user-centered interfaces that enhance user satisfaction.
+  <br>
+  <br>
+  <br>
+
+<h3>Our Approach:</h3>
+
+Collaboration: We believe in working closely with our clients, fostering open communication and transparency throughout the development process.
 
 - 👨‍💻 All of Our projects are available at [https://irym-protfolio.vercel.app/](https://irym-protfolio.vercel.app/)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif">
-
 - 📫 How to reach to us **Irym.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
